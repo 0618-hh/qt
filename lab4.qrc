@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/login.png</file>
+        <file>img/loginout.png</file>
+        <file>img/loop.png</file>
+        <file>img/add.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/search.png</file>
+        <file>img/add (2).png</file>
+        <file>img/delete (2).png</file>
+        <file>img/edit (3).png</file>
+        <file>img/search (2).png</file>
+        <file>img/ser.png</file>
+        <file>img/del.png</file>
+        <file>img/editt.png</file>
+        <file>img/plus-circle-fill.png</file>
+    </qresource>
+</RCC>
